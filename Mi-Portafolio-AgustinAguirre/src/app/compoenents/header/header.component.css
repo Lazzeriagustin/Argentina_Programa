@@ -1,0 +1,23 @@
+header{
+    display: flex;
+      align-items: center;
+      align-content: center;
+      justify-content: space-between;
+      padding: 10px;
+      width: 100%;
+      box-shadow: 2px 5px 16px 0px #0d0f11;
+}
+
+
+
+#logoAP {
+    width: 150px;
+    
+}
+
+.RS{
+    margin: 10px;
+    font-size: 1.5em;
+    gap: 14px;
+      display: flex;
+}
